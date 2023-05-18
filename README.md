@@ -12,9 +12,9 @@
 
 - ⭐ Desarrollador Web ⭐ 
 - 📲 Lenguaje de programacion: JavaScript, PHP y c++
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+25k subs)
+- 🎥 frontend-Backend
 - ✏️ Frameworks: Angular, Reactjs, Laravel.
-- 📗 
+- 📗 SQL Server, MySql, MongoDb, PostgreSQL.
 - 🧑‍🏫 
 <br>
 
