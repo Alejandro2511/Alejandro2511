@@ -19,6 +19,7 @@
 <br>
 
 ## Proyectos *bombitas*
+<!--  PROYECTOS AGREGAR
 <table>
 <tr>
 <td width="50%">
@@ -57,6 +58,7 @@
 </table>                                                                                 
 </div>
 <br>
+-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
